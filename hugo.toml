@@ -101,3 +101,7 @@ googleAnalytics = "G-ZCM7DTPPL3"
   # Please keep the original attribution link when using for your own project.
   # If you'd like to use the template without the attribution, you can check out
   # the license option via the template author's website: https://onepagelove.com/split
+[submodule "themes/hugo-split-theme"] 
+  path = themes/hugo-split-theme 
+  url = https://github.com/christianmendoza/hugo-split-theme.git
+  
