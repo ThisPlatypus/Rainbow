@@ -59,7 +59,7 @@ copyright = "&copy;2024 Your Name"
 
       [[params.links.list1.link]]
         text = "Email"
-        url = "#"
+        url = "/mass"
         new_tab = false # Default, open at same tab
 
       [[params.links.list1.link]]
