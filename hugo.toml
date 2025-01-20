@@ -5,6 +5,7 @@ title = "Split - HTML Template Demo"
 theme = "hugo-split-theme"
 disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT"]
 
+googleAnalytics = "G-ZCM7DTPPL3"
 
 
 [params]
@@ -52,7 +53,7 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
 
       [[params.links.list1.link]]
         text = "Blog"
-        url = "#"
+        url = "mass"
 
       [[params.links.list1.link]]
         text = "Email"
